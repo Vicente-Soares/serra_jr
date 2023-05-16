@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Dia 1.0</title>
+</head>
+<body>
+    <div class="card">
+        <div class="squad">
+            Squad
+        </div>
+        <div class="rectangle"> </div>
+        <div class="nome">
+            Nome:
+        </div>
+        <div class="lider">
+            Líder:
+        </div>
+        <div class="integrantes">
+            Integrantes:
+        </div>
+    </div>
+</body>
+</html>
